@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,67 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.container {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+  width: 100vw;
+  /* height: 50vh; */
+}
+
+.Esp {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  margin: 10px;
+}
+
+.Cap {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  margin: 10px;
+}
+
+.Lat {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  margin: 10px;
+}
+
+
+.App1 {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+table {
+  border: 2px solid forestgreen;
+  /* width: 800px;
+  height: 200px; */
+  width: 854px;
+  height: 344px;
+}
+  
+th {
+  border-bottom: 1px solid black;
+}
+  
+td {
+  text-align: center;
+}
+
+.h1-h1{
+  color: green;
+  text-align: center;
 }
